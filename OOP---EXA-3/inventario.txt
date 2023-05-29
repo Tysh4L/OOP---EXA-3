@@ -1,4 +1,0 @@
-1,Camiseta Polo,399.99,3
-2,Pantalón de vestir,599.99,2
-3,Corbata,259.99,1
-5,Zapatos,259.99,4
